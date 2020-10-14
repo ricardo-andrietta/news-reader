@@ -1,6 +1,6 @@
 # News Reader
 
-Website that fetches the most recente (public) news from different websites and shows it in a very standard and elegant way.
+Website that fetches the most recent (public) news from different websites and shows it in a very standard and elegant way.
 Easy to read and with the option of listening.
 
 The idea is the following:
